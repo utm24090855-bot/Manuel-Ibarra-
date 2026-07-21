@@ -33,7 +33,7 @@ Estudiante de **Ingeniería en Inteligencia Artificial** en la Universidad Tecno
 - 📜 **Python** — Santander Open Academy
 - 💳 **Pagos Abiertos** — Interledger
 - 🧩 **Mendix** — Low-Code Development
-- 🗣️ **Inglés B1** — Linguatec
+- 🗣️ **Inglés C1** 
 
 ---
 
